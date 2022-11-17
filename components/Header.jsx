@@ -13,8 +13,8 @@ const Header = () => {
                             className="cursor-pointer" 
                             to={`sect${i}`} 
                             spy={true} 
-                            smooth={true} 
-                            duration={500}
+                            smooth="easeInQuad" 
+                            duration={800}
                         >
                             {`Section ${i}`}
                         </Link>
