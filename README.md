@@ -22,9 +22,10 @@ Here is the table of contents of our project. You may use it to explore the whol
 In this project we will explore on the features of **React-Scroll**.
 
 What we have done in the recent times:
-* [x] Create a basic header with active and default link.
-* [x] Create basic four sections layout.
-* [x] Create a basic button which will display when scrolling vertically and able to go to top page when click.
+* [x] Created a basic header with active and default link. If active will display underline.
+* [x] Created basic four sections layout.
+* [x] Created a basic button which will display when scrolling vertically and able to go to top page when click.
+* [x] Added basic scroll animation.
 
 
 <p align="right"><a href="#-project-title">🔼</a></p>
@@ -57,7 +58,8 @@ A list of **technology stack** that we applied in this project. There are as lis
 ## 🔎 References
 This is a list of references that we found quite helpful in the contribution to this project.
 1. [React-Scroll](https://www.npmjs.com/package/react-scroll) 
-2. [Stack Overflow](https://stackoverflow.com/questions/63397911/y-scroll-event-listener-useeffect)
+2. [GitHub React-Scroll](https://github.com/fisshy/react-scroll) 
+3. [Stack Overflow](https://stackoverflow.com/questions/63397911/y-scroll-event-listener-useeffect) 
  
 <p align="right"><a href="#-project-title">🔼</a></p>
 <!-- END References -->
