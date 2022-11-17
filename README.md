@@ -14,7 +14,9 @@ Here is the table of contents of our project. You may use it to explore the whol
 - [References](#-references)
 - [Videos](#%EF%B8%8F-videos)
 
-<p align="right"><a href="#-project-title">🔼</a></p>
+<a align="right" href="#-project-title">
+  <img align="right" width="16" src="https://user-images.githubusercontent.com/92319348/202473243-8f547c67-ab8a-4fb1-821e-75e83ff6b097.png" />
+</a>
 <!-- END Table Of Contents -->
 
 <!-- START About Project -->
@@ -27,8 +29,9 @@ What we have done in the recent times:
 * [x] Created a basic button which will display when scrolling vertically and able to go to top page when click.
 * [x] Added basic scroll animation.
 
-
-<p align="right"><a href="#-project-title">🔼</a></p>
+<a align="right" href="#-project-title">
+  <img align="right" width="16" src="https://user-images.githubusercontent.com/92319348/202473243-8f547c67-ab8a-4fb1-821e-75e83ff6b097.png" />
+</a>
 <!-- END About Project -->
 
 <!-- START Technology Stack -->
@@ -47,11 +50,13 @@ A list of **technology stack** that we applied in this project. There are as lis
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,vscode" />
+    <img src="https://skillicons.dev/icons?i=vscode" />
   </a>
 </p>
 
-<p align="right"><a href="#-project-title">🔼</a></p>
+<a align="right" href="#-project-title">
+  <img align="right" width="16" src="https://user-images.githubusercontent.com/92319348/202473243-8f547c67-ab8a-4fb1-821e-75e83ff6b097.png" />
+</a>
 <!-- END Technology Stack -->
 
 <!-- START References -->
@@ -61,7 +66,9 @@ This is a list of references that we found quite helpful in the contribution to 
 2. [GitHub React-Scroll](https://github.com/fisshy/react-scroll) 
 3. [Stack Overflow](https://stackoverflow.com/questions/63397911/y-scroll-event-listener-useeffect) 
  
-<p align="right"><a href="#-project-title">🔼</a></p>
+<a align="right" href="#-project-title">
+  <img align="right" width="16" src="https://user-images.githubusercontent.com/92319348/202473243-8f547c67-ab8a-4fb1-821e-75e83ff6b097.png" />
+</a>
 <!-- END References -->
 
 <!-- START Videos -->
@@ -69,7 +76,9 @@ This is a list of references that we found quite helpful in the contribution to 
 Here are some of the video results of the project. 
 1. In video results: [Result 1](https://youtu.be/mkr3s0MQTy8)
 
-<p align="right"><a href="#-project-title">🔼</a></p>
+<a align="right" href="#-project-title">
+  <img align="right" width="16" src="https://user-images.githubusercontent.com/92319348/202473243-8f547c67-ab8a-4fb1-821e-75e83ff6b097.png" />
+</a>
 <!-- END Videos -->
 
 
